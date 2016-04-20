@@ -1,0 +1,22 @@
+{
+  "name": "iwapp",
+  "version": "1.0.0",
+  "description": "A smart building web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yinxu-cmu/iwapp-smart-building.git"
+  },
+  "author": "Yin Xu <xuyin.cmu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinxu-cmu/iwapp-smart-building/issues"
+  },
+  "homepage": "https://github.com/yinxu-cmu/iwapp-smart-building#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
